@@ -9,7 +9,7 @@
 
 ## 📄 Consigna  
 
-Se adjunta la consigna para interpretar correctamente las reglas de negocio.  
+Se adjunta la consigna para interpretar correctamente las reglas de negocio.  Leer archivo `readme.md`.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,4 +24,5 @@ Se adjunta la consigna para interpretar correctamente las reglas de negocio.
 
 ## 📄 Instructions  
 
-Instructions are attached to correctly interpret the business rules.  
+Instructions are attached to correctly interpret the business rules. Please read the `readme.md` file.
+
